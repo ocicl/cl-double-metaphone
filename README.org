@@ -1,0 +1,10 @@
+* cl-double-metaphone
+
+A pure Common Lisp implementation of Lawrence Philips’ Double
+Metaphone phonetic encoding algorithm.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/dancamper/cl-double-metaphone.git |
+| commit  | 86ea079                                                  |
+| systems | cl-double-metaphone                                      |
+|---------+----------------------------------------------------------|
