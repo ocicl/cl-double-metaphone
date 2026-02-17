@@ -5,6 +5,6 @@ Metaphone phonetic encoding algorithm.
 
 |---------+----------------------------------------------------------|
 | source  | git:https://github.com/dancamper/cl-double-metaphone.git |
-| commit  | 86ea079                                                  |
+| commit  | 2626394                                                  |
 | systems | cl-double-metaphone                                      |
 |---------+----------------------------------------------------------|
