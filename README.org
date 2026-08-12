@@ -8,3 +8,4 @@ Metaphone phonetic encoding algorithm.
 | commit  | d2a733d                                                  |
 | systems | cl-double-metaphone                                      |
 |---------+----------------------------------------------------------|
+ 
